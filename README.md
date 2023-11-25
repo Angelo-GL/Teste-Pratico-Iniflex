@@ -1,4 +1,4 @@
- # Teste-Prático-Iniflex
+ # Teste Prático Iniflex
 
 Elaboração de um projeto utilizando a linguagem de programação Java, obedecendo os seguintes requisitos: 
 
